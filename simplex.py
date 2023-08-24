@@ -6,7 +6,7 @@ total_columnas = ((total_columnas + 1) * 2) + 1
 filas = columnas + 1
 
 # Creando una lista con una lista
-w, h = total_columnas, filas;
+w, h = total_columnas, filas
 Matrix = [[0 for x in range(w)] for y in range(h)]
 
 gananciadepto = []
@@ -82,26 +82,3 @@ while contador > 0:
     value_depto_select += 1
     contador -= 1
     zuno = 0
-"""
-By: Alfonso Candiani Jaramillo
-
-                        (
-                          )     (
-                   ___...(-------)-....___
-               .-""       )    (          ""-.
-         .-'``'|-._             )         _.-|
-        /  .--.|   `""---...........---""`   |
-       /  /    |                             |
-       |  |    |                             |
-        \  \   |                             |
-         `\ `\ |                             |
-           `\ `|                             |
-           _/ /\                             /
-          (__/  \                           /
-       _..---""` \                         /`""---.._
-    .-'           \                       /          '-.
-   :               `-.__             __.-'              :
-   :                  ) ""---...---"" (                 :
-    '._               `"--...___...--"`              _.'
-  jgs \""--..__                              __..--""/
-       '._     https://candianijaramillo.com"""
