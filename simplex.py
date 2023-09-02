@@ -1,3 +1,4 @@
+
 from fractions import Fraction
 import pandas as pd
 
@@ -93,4 +94,3 @@ while contador > 0:
 
     value_depto_select += 1
     contador -= 1
-    zuno = 0
