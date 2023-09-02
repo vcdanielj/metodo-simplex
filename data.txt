@@ -1,0 +1,24 @@
+Cuantas departamentos se tienen: 2
+Introduce cual es el valor del depto 1: 25
+Introduce cual es el valor del depto 2: 45
+Valor de la fila 1 columna 1: 0
+Valor de la fila 1 columna 2: 2000
+Valor de la fila 1 columna 3: 4
+Valor de la fila 1 columna 4: 2
+Valor de la fila 1 columna 5: 1
+Valor de la fila 1 columna 6: 0
+Valor de la fila 1 columna 7: 0
+Valor de la fila 2 columna 1: 0
+Valor de la fila 2 columna 2: 1500
+Valor de la fila 2 columna 3: 2.5
+Valor de la fila 2 columna 4: 0.6
+Valor de la fila 2 columna 5: 0
+Valor de la fila 2 columna 6: 1
+Valor de la fila 2 columna 7: 0
+Valor de la fila 3 columna 1: 0
+Valor de la fila 3 columna 2: 600
+Valor de la fila 3 columna 3: 1
+Valor de la fila 3 columna 4: 2
+Valor de la fila 3 columna 5: 0
+Valor de la fila 3 columna 6: 0
+Valor de la fila 3 columna 7: 1
